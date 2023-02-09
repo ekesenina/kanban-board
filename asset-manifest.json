@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kanban-board/static/css/main.31400df5.css",
+    "main.js": "/kanban-board/static/js/main.23148677.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kanban-board/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/kanban-board/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/user-avatar.svg": "/kanban-board/static/media/user-avatar.2703af555bef769c27a4f914f1dfe285.svg",
+    "index.html": "/kanban-board/index.html",
+    "static/media/arrow-up.svg": "/kanban-board/static/media/arrow-up.0bdd753114a7075f4da5.svg",
+    "static/media/arrow-down.svg": "/kanban-board/static/media/arrow-down.499a81f7058420ec4c25.svg",
+    "static/media/add-card-disabled.svg": "/kanban-board/static/media/add-card-disabled.fd5fe5ecd2543de58434.svg",
+    "static/media/add-card.svg": "/kanban-board/static/media/add-card.c6cdbf7a59b54744b652.svg",
+    "static/media/cross.svg": "/kanban-board/static/media/cross.b330e8fddf3b4fab32d94d23d3da5382.svg",
+    "static/media/rombik.svg": "/kanban-board/static/media/rombik.9b1e9463a0d58eecb054.svg",
+    "static/media/select-arrow.svg": "/kanban-board/static/media/select-arrow.157e19ef20c6da73ccf7.svg",
+    "main.31400df5.css.map": "/kanban-board/static/css/main.31400df5.css.map",
+    "main.23148677.js.map": "/kanban-board/static/js/main.23148677.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kanban-board/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31400df5.css",
+    "static/js/main.23148677.js"
+  ]
+}
