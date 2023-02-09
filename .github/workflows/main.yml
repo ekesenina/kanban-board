@@ -13,4 +13,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: ${{ secrets.PORT }}
-        script: cd Kate && docker compose up -d --build
+        script: cd Kate && git pull && cd kanban-board && docker compose up -d --build
