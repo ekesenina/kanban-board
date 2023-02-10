@@ -1,16 +1,16 @@
-/* line 51, ../../Projects/kanban-board/my-app/src/sass/variables.sass */
+/* line 50, ../../Projects/kanban-board/src/sass/variables.sass */
 a {
   text-decoration: none;
 }
 
-/* line 3, ../../Projects/kanban-board/my-app/src/sass/main.sass */
+/* line 3, ../../Projects/kanban-board/src/sass/main.sass */
 .main {
-  min-height: calc(100vh - 150px);
-  padding: 20px 0px;
-  background-color: #0079BF;
+  min-height: calc(100vh - 200px);
+  padding: 0px 0px 24px;
+  background-color: #7D7C7A;
 }
 
-/* line 7, ../../Projects/kanban-board/my-app/src/sass/main.sass */
+/* line 7, ../../Projects/kanban-board/src/sass/main.sass */
 .main__content {
   display: flex;
   flex-wrap: nowrap;

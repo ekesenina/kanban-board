@@ -1,9 +1,9 @@
-/* line 51, ../../Projects/kanban-board/my-app/src/sass/variables.sass */
+/* line 50, ../../Projects/kanban-board/src/sass/variables.sass */
 a {
   text-decoration: none;
 }
 
-/* line 3, ../../Projects/kanban-board/my-app/src/sass/add-task.sass */
+/* line 3, ../../Projects/kanban-board/src/sass/add-task.sass */
 .input {
   font-size: 1.125rem;
   line-height: 1.25rem;
@@ -16,7 +16,7 @@ a {
   width: calc(100% - 16px);
 }
 
-/* line 7, ../../Projects/kanban-board/my-app/src/sass/add-task.sass */
+/* line 7, ../../Projects/kanban-board/src/sass/add-task.sass */
 .button__submit__inactive {
   font-size: 1.125rem;
   border: none;
@@ -30,7 +30,7 @@ a {
   box-shadow: inset 0px 0px 3px 0px #aaa;
 }
 
-/* line 14, ../../Projects/kanban-board/my-app/src/sass/add-task.sass */
+/* line 14, ../../Projects/kanban-board/src/sass/add-task.sass */
 .button__submit__active {
   font-size: 1.125rem;
   border: none;
@@ -42,7 +42,7 @@ a {
   color: #fff;
 }
 
-/* line 18, ../../Projects/kanban-board/my-app/src/sass/add-task.sass */
+/* line 18, ../../Projects/kanban-board/src/sass/add-task.sass */
 .button__submit__active:hover {
   background-color: #0067a3;
 }
